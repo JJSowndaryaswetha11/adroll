@@ -1,0 +1,49 @@
+/* Sales.css */
+
+.mainbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    background-color:#ffe8e0;
+  }
+  
+  .mainboxs {
+    text-align: center;
+  }
+  .mainboxs h2{
+    font-size: 2rem;
+    line-height: 2.75rem;
+  }
+  
+  
+  
+  /* Additional styles as needed */
+  
+  .get-startedd,
+  .get-in-touchh {
+    display: inline-block;
+    font-family: 'Open Sans', sans-serif;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 24px;
+  }
+  
+  .get-startedd {
+    background-color: #8e44ad;
+    color: white;
+    margin-left: 70px;
+    margin-top: 20px;
+    margin-right: 10px; /* Space between the buttons */
+  }
+  
+  .get-in-touchh {
+    background-color: #00aeef;
+    color: white;
+    margin-right: 90px;
+  }
+  

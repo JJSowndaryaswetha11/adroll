@@ -1,0 +1,47 @@
+.main-headings{
+    
+    align-items: center;
+    height: 400px;
+}
+.main-headings h2{
+    
+ font-family: 'Work Sans', sans-serif;
+ margin-left: 150px;
+  margin-top: 80px;
+ font-size: 2rem;
+ line-height: 3.25rem;
+ 
+
+
+ 
+ 
+}
+.main-headings img {
+    float: right;
+    width: 30%;
+    margin-right: 100px;
+   
+   
+   
+    
+    /* Additional styles for the blue background */
+  
+}
+
+
+.main-headings p {
+    margin-left: 150px;
+    line-height: 1.5rem;
+}
+.main-headings a{
+    margin-left: 150px;
+    color: #cc66a0;
+    font-size: 1.2rem;
+    word-spacing: 1px;
+}
+.arrows{
+    font-size: 1.5rem;
+}
+.main-headings a:hover{
+    color: rgb(188, 139, 233);
+}

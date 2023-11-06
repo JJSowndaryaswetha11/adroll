@@ -1,0 +1,35 @@
+.footer {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 70px;
+    
+  }
+  
+  .column {
+    margin: 10px 15px; /* Adjust margin as needed */
+    flex: 1;
+    font-size: 12px;
+    
+  }
+  .column h5{
+    font-size: 14px;
+  }
+  /* Your existing CSS */
+
+.iab-icon {
+    width: 24px; /* Adjust width as needed */
+    height: 24px; /* Adjust height as needed */
+    margin-right: 5px; /* Adjust margin as needed */
+  }
+  .social-icons{
+    margin: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .im-age{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    margin-left: 20px;
+
+  }

@@ -1,0 +1,67 @@
+ @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Work+Sans:wght@400;600&display=swap');
+
+
+
+.main-headingss{
+   
+    align-items: center;
+    height: 70vh;
+    justify-content: center;
+   
+    margin-top: 70px;
+   
+   
+}
+
+.main-headingss img {
+   
+    margin-left: 150px;
+    float: left;
+    width: 40%;
+    
+    
+   
+   
+   
+    
+    /* Additional styles for the blue background */
+  
+}
+.main-headingss h2{
+    
+    font-family: 'Work Sans', sans-serif;
+     font-size: 1.95rem ;
+    
+     word-spacing: 2px;
+     line-height: 2.5rem;
+     font-weight: bold;
+    margin-left: 500px;
+    
+    
+   
+   
+    
+    
+   }
+
+
+.main-headingss p {
+    
+    margin-left: 500px;
+    line-height: 1.7rem;
+   
+}
+.main-headingss a{
+    margin-left: 50px;
+    color: #cc66a0;
+    font-size: 1.2rem;
+    word-spacing: 1px;
+    text-decoration: none;
+}
+.arrowss{
+    font-size: 1.5rem;
+   
+}
+.main-headingss a:hover{
+    color: rgb(188, 139, 233);
+}

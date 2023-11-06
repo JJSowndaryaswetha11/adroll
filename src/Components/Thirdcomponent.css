@@ -1,0 +1,23 @@
+.wholeimage {
+  display: flex;
+  align-items: center;
+  margin-left: 150px;
+  gap: 30px;
+  height: 70px;
+  
+}
+
+.wholeimage img {
+  width: 120px; 
+  margin: 5px; 
+}
+
+
+
+
+
+
+
+
+
+

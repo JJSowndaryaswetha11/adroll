@@ -1,0 +1,47 @@
+.main-heads{
+    
+    align-items: center;
+    height: 400px;
+}
+.main-heads h2{
+    
+ font-family: 'Work Sans', sans-serif;
+ margin-left: 130px;
+  margin-top: 80px;
+ font-size: 2rem;
+ line-height: 2.5rem;
+ 
+
+
+ 
+ 
+}
+.main-heads img {
+    float: right;
+    width: 30%;
+    margin-right: 100px;
+   
+   
+   
+    
+    /* Additional styles for the blue background */
+  
+}
+
+
+.main-heads p {
+    margin-left: 130px;
+    line-height: 1.7rem;
+}
+.main-heads a{
+    margin-left: 130px;
+    color: #cc66a0;
+    font-size: 1.2rem;
+    word-spacing: 1px;
+}
+.arrows{
+    font-size: 1.5rem;
+}
+.main-heads a:hover{
+    color: rgb(188, 139, 233);
+}

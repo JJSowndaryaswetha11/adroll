@@ -1,0 +1,124 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Work+Sans&display=swap');
+.main-heading{
+    
+    
+    
+  align-items: center;
+    
+  height: 70vh;
+  background-color: beige;
+    
+    
+    background-color:#ffe8e0;
+    
+}
+
+.main-heading h1{
+    margin-top: 20px;
+ font-family: 'Work Sans', sans-serif;
+ margin-left: 90px;
+ 
+ font-size: 2.375rem;
+ 
+ 
+
+
+ 
+ 
+}
+.main-heading img {
+    float: right;
+    width: 34%;
+   
+   
+    
+    /* Additional styles for the blue background */
+  
+}
+
+
+.main-heading p {
+    margin-left: 90px;
+    line-height: 2rem;
+}
+.get-started{
+    font-family: 'Open Sans', sans-serif;
+  padding: 10px 15px;
+  background-color:  #8e44ad;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  margin-left: 90px;
+  margin-top: 20px;
+}
+.get-in-touch{
+    font-family: 'Open Sans', sans-serif;
+  padding: 10px 15px;
+  background-color:#00aeef;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  margin-left: 20px;
+}
+.get-started:hover {
+ background-color: #cc66a0;
+}
+.get-in-touch:hover{
+  background-color: #00afefbe;
+}
+.maindiv {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-heading {
+ width: 100%;
+}
+
+.img_deg {
+  max-width: 100%; 
+  display: block;
+}
+
+/* Media Query for responsiveness */
+@media screen and (max-width: 768px) {
+  .main-heading h1 {
+    font-size: 1.5em;
+  }
+
+  .main-heading p {
+    font-size: 0.9em;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .main-heading h1 {
+    font-size: 1.2em;
+  }
+
+  .main-heading p {
+    font-size: 0.8em;
+  }
+
+  .get-started, .get-in-touch {
+    font-size: 0.9em;
+  }
+}
+
+
+
+
+
+
+  
+  
+  

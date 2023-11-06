@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Work+Sans:wght@400;600&display=swap');
+
+
+
+.main-part{
+    
+    align-items: center;
+    height: 400px;
+    justify-content: center;
+   
+   
+}
+
+.main-part img {
+    
+    margin-left: 150px;
+    float: left;
+    width: 30%;
+    gap: 20px;
+    
+   
+   
+   
+    
+    /* Additional styles for the blue background */
+  
+}
+.main-part h2{
+    
+    font-family: 'Work Sans', sans-serif;
+     font-size: 1.95rem ;
+    
+     word-spacing: 2px;
+     line-height: 2.5rem;
+     font-weight: bold;
+     margin-left: 600px;
+    
+    
+    
+   
+   
+    
+    
+   }
+
+
+.main-part p {
+    
+    margin-left: 600px;
+    line-height: 1.7rem;
+   
+}
+.main-part a{
+    margin-left: 600px;
+    color: #cc66a0;
+    font-size: 1.2rem;
+    word-spacing: 1px;
+    text-decoration: none;
+}
+.arrowss{
+    font-size: 1.5rem;
+   
+}
+.main-part a:hover{
+    color: rgb(188, 139, 233);
+}
+@media screen and (max-width: 768px) {
+    .main-part {
+      padding: 10px;
+    }
+  
+    h2 {
+      font-size: 1.2em;
+    }
+  
+    p {
+      font-size: 0.9em;
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    h2 {
+      font-size: 1em;
+    }
+  
+    p {
+      font-size: 0.8em;
+    }
+  }
